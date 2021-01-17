@@ -24,6 +24,7 @@ Huge thanks to Pixar's USD team for providing a highly extensible platform!
 - [usdTri](./src/usdTri): A schema library defining a **Triangle** prim type.
 - [usdTriImaging](./src/usdTriImaging): A prim adapter which images the **Triangle** prim type.
 - [usdTriFileFormat](./src/usdTriFileFormat): A file format plugin which authors a triangular mesh for a `.triangle` payload.
+- [arTri](./src/arTri): An asset resolver plugin for the "tri" scheme.
 - [hdTri](./src/hdTri): A hydra renderer plugin which images a triangle (in the most direct sense).
 - [usdviewTri](./src/usdviewTri): An usdview plugin providing a menu command to define child Triangle prim(s) under selected paths.
 

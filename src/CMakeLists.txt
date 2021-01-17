@@ -6,6 +6,7 @@ set(ORGANIZATION "usdpluginexamples")
 # Build & install libraries.
 add_subdirectory(usdTri)
 add_subdirectory(usdviewTri)
+add_subdirectory(arTri)
 
 # Build & install plugins.
 add_subdirectory(usdTriImaging)
