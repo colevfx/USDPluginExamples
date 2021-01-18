@@ -7,7 +7,7 @@
                         "bases": [ 
                             "ArResolver" 
                         ],
-                        "schemes": [
+                        "uriSchemes": [
                             "tri"
                         ]
                     }
